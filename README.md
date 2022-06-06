@@ -15,7 +15,7 @@ I'm looking for opportunities.
 </a>
 
 
-<a target="_blank" href="https://medium.com/@ketakiraut34" target="_blank">
+<a target="_blank" href="https://medium.com/@ketkiraut76" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  
@@ -26,7 +26,7 @@ I'm looking for opportunities.
 </a>
 
 <a href="https://github.com/ketakiraut34">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rumani&show_icons=true&theme=dark&line_height=27" alt="Ketaki's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ketakiraut34&show_icons=true&theme=dark&line_height=27" alt="Ketaki's github stats"/>
 </a>
 
 
