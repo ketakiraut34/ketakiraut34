@@ -6,7 +6,7 @@ I'm looking for opportunities.
 * 🌱 I’m currently learning Data analysis 
 * 👯 I’m looking to collaborate on EXL for business intelligence devloper course
 * 💬 Ask me about Data analysis using Tableau and Power BI
-* 📫 How to reach me: ketkiraut76@gmail.com
+* 📫 How to reach me: rketaki6@gmail.com
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
@@ -15,8 +15,8 @@ I'm looking for opportunities.
 </a>
 
 
-<a target="_blank" href="https://medium.com/@ketkiraut76" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a target="_blank" href="https://public.tableau.com/app/profile/ketaki.raut" target="_blank">
+<img alt="Tableau public" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkTPp8YPEFKiVf2rM10cALkrXQRe0gjtIYZCEcp2o7w&s" />
 </a>
  
  
