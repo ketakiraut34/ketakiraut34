@@ -16,7 +16,7 @@ I'm looking for opportunities.
 
 
 <a target="_blank" href="https://public.tableau.com/app/profile/ketaki.raut" target="_blank">
-<img alt="Tableau public" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxdZOAC3onOaMTTz8ivatdr6CIlamRTN1rihTkILQiA&s" />
+<img alt="Tableau public" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxdZOAC3onOaMTTz8ivatdr6CIlamRTN1rihTkILQiA&s?style=for-the-badge&logo=Tableau public&logoColor=white" />
 </a>
  
  
