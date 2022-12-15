@@ -16,7 +16,7 @@ I'm looking for opportunities.
 
 
 <a target="_blank" href="https://public.tableau.com/app/profile/ketaki.raut" target="_blank">
-<img alt="Tableau public" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fassets%2Fimages%2Ftableau-public-logo-with-padding.png&imgrefurl=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fdiscover%2Fauthors&tbnid=slerbxYCXqFQmM&vet=12ahUKEwiWpOeH_fv7AhXEktgFHZ0xAfwQMygAegUIARC7AQ..i&docid=ycfY-c4K3j0ACM&w=431&h=244&q=tableau%20public%20logo%20png&ved=2ahUKEwiWpOeH_fv7AhXEktgFHZ0xAfwQMygAegUIARC7AQ" />
+<img alt="Tableau public" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxdZOAC3onOaMTTz8ivatdr6CIlamRTN1rihTkILQiA&s" />
 </a>
  
  
