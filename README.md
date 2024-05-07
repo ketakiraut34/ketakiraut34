@@ -2,10 +2,10 @@
 
 I'm looking for opportunities.
 
-* 🔭 I’m currently working with  Python, Artificial Intelligence, Tableau , SQL and Microsoft Power BI
-* 🌱 I’m currently learning Data analysis 
+* 🔭 I’m Currently working as a Associate BI Consultant at Embolden Consulting Services Pvt Ltd, Qliksense , Artificial Intelligence, Tableau , SQL and Microsoft Power BI
+* 🌱 I have a year experience in BI tools  at my organization  
 * 👯 I’m looking to collaborate on EXL for business intelligence devloper course
-* 💬 Ask me about Data analysis using Tableau and Power BI
+* 💬 Ask me about Data analysis using Tableau and Power BI , QlikSense 
 * 📫 How to reach me: rketaki6@gmail.com
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
